@@ -27,3 +27,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ijchavez&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijchavez/ijchavez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ijchavez/ijchavez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ijchavez/ijchavez/output/pacman-contribution-graph.svg">
+</picture>
